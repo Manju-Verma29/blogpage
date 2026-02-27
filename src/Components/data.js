@@ -4,7 +4,7 @@ export const data = [
     subcategories : [
     {
         subTitle: "1.1 Discover What You Love (and What You’re Good At)",
-        contentTitle1: "Try a “career‑探险” (exploration) mindset: ",
+        contentTitle1: "Try a “career” (exploration) mindset: ",
         content1: "Spend a few months sampling different roles, internships, or volunteer gigs.",
         contentTitle2: "Use self‑assessment tools: ",
         content2: "Myers‑Briggs, StrengthsFinder, or free online quizzes can reveal natural inclinations.",

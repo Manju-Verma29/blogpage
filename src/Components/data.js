@@ -1,4 +1,4 @@
-export const data = [
+export const lifeGoals = [
     {
     title: "1. Build a Career Foundation",
     subcategories : [

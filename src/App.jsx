@@ -1,11 +1,10 @@
+import Blogpage from "./Components/Blogpage"
 
 function App() {
 
   return (
     <>
-      <p className=" text-cyan-400">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Blogpage/>
     </>
   )
 }

@@ -218,3 +218,56 @@ export const lifeGoals = [
     ]
 }
 ];
+
+export const focus = [
+    {
+        title: "Career & Skills",
+        content: {
+            line1: "Learn high-income skills",
+            line2: "Switch jobs early if needed",
+            line3: "Build projects, not just resumes",
+            line4: "Network intentionally",
+        },
+        advice: "Skills > Degree",
+    },
+    {
+        title: "Money & Financial Awareness",
+        content: {
+            line1: "Track your expenses",
+            line2: "Start investing early",
+            line3: "Avoid lifestyle inflation",
+            line4: "Network intentionally",
+        },
+        advice: "The earlier you invest, the easier life becomes.",
+    },
+    {
+        title: "Health & Fitness",
+        content: {
+            line1: "Build strength",
+            line2: "Sleep 7–8 hours",
+            line3: "Eat simple, clean foods",
+            line4: "Avoid addictive habits",
+        },
+        advice: "Energy is your real currency.",
+    },
+    {
+        title: "Mindset & Discipline",
+        content: {
+            line1: "Learn to be alone",
+            line2: "Control your dopamine",
+            line3: "Read daily",
+            line4: "Develop self-respect",
+        },
+        advice: "Your mindset determines your ceiling.",
+    },
+    {
+        title: "Relationships",
+        content: {
+            line1: "Choose friends carefully",
+            line2: "Avoid toxic patternse",
+            line3: "Communicate honestly",
+            line4: "Learn emotional maturity",
+        },
+        advice: "Who you spend time with shapes who you become.",
+    },
+];

@@ -21,8 +21,6 @@
 }
 
 
-@layer base{
-    body{
-        @apply bg-blue-50;
-    }
+body{
+    background-color: #eff6ff;
 }

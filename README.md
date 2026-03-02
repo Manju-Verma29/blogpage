@@ -39,7 +39,7 @@ This platform shares practical advice, life goals, productivity tips, career gui
 ---
 
 ##  Project Structure
-
+```
 blogpage/
 │
 ├── public/
@@ -51,7 +51,7 @@ blogpage/
 │ └── App.jsx
 │
 └── index.html
-
+```
 
 ---
 

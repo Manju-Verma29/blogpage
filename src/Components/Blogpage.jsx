@@ -1,13 +1,12 @@
 import {lifeGoals} from "./data.js"
-
 export default function Blogpage() {
   return (
     <> 
     <div>
-      <h1 className="text-5xl mx-8 my-3.5 lg:max-w-5xl lg:mx-auto py-10 text-center text-yellow-400">What to Do in Your 20s: A Complete Guide</h1>   
+      <h1 className="text-xl sm:text-lg md:text-3xl lg:text-5xl  mx-8 lg:my-3.5 lg:max-w-5xl lg:mx-auto py-10 text-center text-yellow-400">What to Do in Your 20s: A Complete Guide</h1>   
     </div>
     {lifeGoals.map((category, index)=> (
-        <div key={index} className="mx-8  my-12 lg:max-w-5xl lg:mx-auto">
+        <div key={index} className="w-full max-w-5xl mx-auto px-6 lg:my-12 flex flex-col">
         <h2 className="text-xl lg:text-3xl text-blue-900 font-bold">{category.title}</h2>
         <ul>
             {category.subcategories.map((sub, subIndex)=>(

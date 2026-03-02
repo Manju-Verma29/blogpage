@@ -240,6 +240,20 @@ export const thewhy = {
     last: "Most people waste their 20s chasing trends. Smart people invest in skills, health, and clarity.",
 };
 
+export const commonMistakes = {
+    title: "Common Mistakes in Your 20s",
+    points: [
+        "Waiting for motivation",
+        "Comparing yourself to social media",
+        "Ignoring health",
+        "Not learning about money",
+        "Staying in comfort zones",
+    ],
+    last: "You don’t need to be perfect. You need direction."
+};
+
+
+
 
 export const focus = [
     {

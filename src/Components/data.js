@@ -219,6 +219,13 @@ export const lifeGoals = [
 }
 ];
 
+export const homeMain = {
+        title1: "Your 20s Are Not for Surviving,",
+        title2: "They’re for Building.",
+        mainSub: "A practical roadmap for your 20s — career, money, health, mindset, relationships, and growth.",
+        buttons: ["Start Your Journey", "Explore the Guide"]
+};
+
 export const focus = [
     {
         title: "Career & Skills",

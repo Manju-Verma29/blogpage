@@ -3,7 +3,7 @@ import logo from '../assets/logo.png'
 
 
 export default function Navbar() {
-  const linkClass = ({isActive}) => isActive ? "text-blue-900 font-bold border-b-2 text-xs md:text-md lg:text-lg" : "text-xs md:text-md lg:text-lg text-blue-900 hover:underline";
+  const linkClass = ({isActive}) => isActive ? "text-blue-900 font-bold border-b-2 text-xs sm:text-sm md:text-md lg:text-lg" : "text-xs sm:text-sm md:text-md lg:text-lg text-blue-900 hover:underline";
 
   return (
     <>

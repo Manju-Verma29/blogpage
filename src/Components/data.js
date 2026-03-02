@@ -226,6 +226,21 @@ export const homeMain = {
         buttons: ["Start Your Journey", "Explore the Guide"]
 };
 
+export const thewhy = {
+    title: "Why Your 20s Matter?",
+    subTitle: "Your 20s shape the next 40 years of your life.",
+    intro: "This is the decade where:",
+    points: [ 
+        "You build your career foundation", 
+        "You shape your habits", 
+        "You define your standards",
+        "You learn who you really are", 
+
+    ],
+    last: "Most people waste their 20s chasing trends. Smart people invest in skills, health, and clarity.",
+};
+
+
 export const focus = [
     {
         title: "Career & Skills",
